@@ -14,7 +14,7 @@
             "line": 5,
             "name": "User is at the login page",
             "result": {
-              "duration": 4795000000,
+              "duration": 3286000000,
               "status": "passed"
             },
             "match": {
@@ -26,7 +26,7 @@
             "line": 6,
             "name": "User navigate to Booked iteration page",
             "result": {
-              "duration": 859000000,
+              "duration": 614000000,
               "status": "passed"
             },
             "match": {
@@ -38,7 +38,7 @@
             "line": 7,
             "name": "User deselect all booked",
             "result": {
-              "duration": 170000000,
+              "duration": 125000000,
               "status": "passed"
             },
             "match": {
@@ -50,7 +50,7 @@
             "line": 8,
             "name": "User clicks cancel booked",
             "result": {
-              "duration": 481000000,
+              "duration": 604000000,
               "status": "passed"
             },
             "match": {
@@ -82,7 +82,7 @@
             "line": 5,
             "name": "User is at the login page",
             "result": {
-              "duration": 11969000000,
+              "duration": 2892000000,
               "status": "passed"
             },
             "match": {
@@ -94,7 +94,7 @@
             "line": 6,
             "name": "User enters username as username and password as password",
             "result": {
-              "duration": 2393000000,
+              "duration": 1943000000,
               "status": "passed"
             },
             "match": {
@@ -106,7 +106,7 @@
             "line": 7,
             "name": "User clicks on login button",
             "result": {
-              "duration": 2202000000,
+              "duration": 596000000,
               "status": "passed"
             },
             "match": {
@@ -118,7 +118,7 @@
             "line": 8,
             "name": "User is able to successfully login to the Website",
             "result": {
-              "duration": 10194000000,
+              "duration": 10273000000,
               "status": "passed"
             },
             "match": {
